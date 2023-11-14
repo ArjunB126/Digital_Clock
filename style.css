@@ -45,3 +45,54 @@ button:active::after{
     width:200px;
     height:200px;
 }
+
+.animateFromRight::after{
+    right:-200px;
+    width:200px;
+    height:200px;
+}
+.animateFromRight:active::after{
+    right:0px;
+}
+.animateFromLeft::after{
+    width:200px;
+    height:200px;
+    left:-200px;
+}
+.animateFromLeft:active::after{
+    left:0px;
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+body{
+    display:grid;
+    place-items: center;
+    height:100vh;
+    background-color: rgb(27, 28, 30);
+}
+.Time-container{
+    width:auto;
+    height:50px;
+    padding:5px;
+    display:flex;
+    overflow: hidden;
+    background-color: #1e1f22;
+    border-radius: 5px;
+    color:white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.Time-container li{
+list-style-type: none;
+height: 100%;
+display: grid;
+place-items: center;
+padding:0px 10px;
+transition-duration: 0.3s;
+}
