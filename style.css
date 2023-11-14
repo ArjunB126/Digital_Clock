@@ -26,3 +26,22 @@ button{
     font-weight: bold;
     position: relative;
 }
+
+button:hover{
+    background-color: rgb(51, 51, 60);
+}
+button:after{
+    content:'';
+    place-self: center;
+    width:0px;
+    background-color: rgb(19, 18, 21);
+    z-index: -1;
+    height:0px;
+    border-radius: 50%;
+    position: absolute;
+    transition: 0.3s;
+}
+button:active::after{
+    width:200px;
+    height:200px;
+}
