@@ -14,3 +14,8 @@ Embrace simplicity with a minimalist interface that focuses on delivering the co
 
 # 3. Educational Value: 
 This project is not just a clock; it's a learning opportunity. Explore the code to understand the intricacies of front-end development and gain insights into how HTML, CSS, and JavaScript can seamlessly collaborate to create a functional and visually appealing application.
+
+# Get Started:
+
+Dive into the world of real-time web applications by exploring the code repository. Whether you're a novice developer looking to learn or an experienced coder seeking inspiration, our Real-Time Digital Clock project is a perfect blend of form and function.
+Visit : 
