@@ -11,3 +11,6 @@ Enjoy real-time updates as the clock continuously reflects the current time, ens
 # 2 Minimalist Interface: 
 Embrace simplicity with a minimalist interface that focuses on delivering the core functionality of displaying time without unnecessary clutter.
 
+
+# 3. Educational Value: 
+This project is not just a clock; it's a learning opportunity. Explore the code to understand the intricacies of front-end development and gain insights into how HTML, CSS, and JavaScript can seamlessly collaborate to create a functional and visually appealing application.
