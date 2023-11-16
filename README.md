@@ -18,4 +18,4 @@ This project is not just a clock; it's a learning opportunity. Explore the code 
 # Get Started:
 
 Dive into the world of real-time web applications by exploring the code repository. Whether you're a novice developer looking to learn or an experienced coder seeking inspiration, our Real-Time Digital Clock project is a perfect blend of form and function.
-Visit : 
+Visit : https://arjunb126.github.io/Digital_Clock/
