@@ -7,3 +7,7 @@ Key Features:
 
 # 1. Live Updates: 
 Enjoy real-time updates as the clock continuously reflects the current time, ensuring accuracy and reliability.
+
+# 2 Minimalist Interface: 
+Embrace simplicity with a minimalist interface that focuses on delivering the core functionality of displaying time without unnecessary clutter.
+
